@@ -26,10 +26,10 @@ body {
 }
 
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--branco-principal);
     border-radius: 15px;
     padding: 1em;
-    color: var(--branco-principal);
+    color: var(--botao-azul);
     display: block;
 }
 
